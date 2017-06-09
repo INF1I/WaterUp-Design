@@ -20,6 +20,8 @@ almost empty or if the plant is receiving to much sun light. The app
 will also be used to configure the right plant species by taking an
 picture of the plant, and let machine learning classify the species.
 
+
+
 ## Repository Authors
 Rowan Nijland - rowan.nijland@student.stenden.com<br>
 
